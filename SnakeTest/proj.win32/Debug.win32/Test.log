@@ -1,0 +1,17 @@
+﻿  HelloWorldScene.cpp
+e:\资源文档\test demo\cocos\snaketest\classes\snakenode.h(33): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159): note: 参见“cocos2d::Node::setZOrder”的声明
+e:\资源文档\test demo\cocos\snaketest\classes\snakenode.h(39): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159): note: 参见“cocos2d::Node::setZOrder”的声明
+e:\资源文档\test demo\cocos\snaketest\classes\snakenode.h(41): warning C4996: 'cocos2d::ccpDistance': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\deprecated\ccdeprecated.h(214): note: 参见“cocos2d::ccpDistance”的声明
+e:\资源文档\test demo\cocos\snaketest\classes\helloworldscene.cpp(29): warning C4996: 'cocos2d::TextureCache::getInstance': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\renderer\cctexturecache.h(68): note: 参见“cocos2d::TextureCache::getInstance”的声明
+e:\资源文档\test demo\cocos\snaketest\classes\helloworldscene.cpp(33): warning C4996: 'cocos2d::Node::setZOrder': 被声明为已否决
+  c:\cocos\cocos2d-x\cocos2d-x-3.10\cocos\2d\ccnode.h(159): note: 参见“cocos2d::Node::setZOrder”的声明
+  复制了 60 个文件
+AppDelegate.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 E:\资源文档\Test Demo\cocos\SnakeTest\proj.win32\Debug.win32\Test.lib 和对象 E:\资源文档\Test Demo\cocos\SnakeTest\proj.win32\Debug.win32\Test.exp
+  Test.vcxproj -> E:\资源文档\Test Demo\cocos\SnakeTest\proj.win32\Debug.win32\Test.exe
+  Test.vcxproj -> E:\资源文档\Test Demo\cocos\SnakeTest\proj.win32\Debug.win32\Test.pdb (Full PDB)
+  复制了 0 个文件
